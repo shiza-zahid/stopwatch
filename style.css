@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+	background-image:url('img.jpg'); 
+
+	
+}
+h2{
+	display: inline-block;
+	width: 70px;
+}
+
+.watch{
+
+  height: 500px;
+   width: 500px;
+  display: inline-block;
+  text-align: center;
+  padding-top: 200px;
+
+}
+button{
+	height: 50px;
+	width: 150px;
+	box-shadow: 4px 4px 4px #006666;
+	background-color: black;
+	color: white;
+
+}
+
+
+h2{
+	color: #003366;
+	text-shadow: 2px 2px 4px #000000;
+	font-size: 40px;
+}
+h1{
+	text-align: center;
+}
+.logo{
+	width: 400px;
+	height: 400px;
+}
